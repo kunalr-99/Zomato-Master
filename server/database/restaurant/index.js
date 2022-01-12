@@ -29,3 +29,5 @@ const RestaurantSchema = new mongoose.Schema({
     ref: "Images",
   },
 });
+
+export const RestaurantModel = mongoose.model("Restaurants", RestaurantSchema);

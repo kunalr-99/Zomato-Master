@@ -1,11 +1,11 @@
-import mongoose from mongoose;
+import mongoose from "mongoose";
 
 const ImageSchema = new mongoose.Schema({
-    images: [
-        {
-            location: { type: String, required: true }
-        }
-    ]
+  images: [
+    {
+      location: { type: String, required: true },
+    },
+  ],
 });
 
-export const ImageModel = mongoose.model("Images", ImageSchema)
+export const ImageModel = mongoose.model("Images", ImageSchema);
