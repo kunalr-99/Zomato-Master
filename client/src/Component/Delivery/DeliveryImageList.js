@@ -95,3 +95,366 @@ export const brandImageList = [
     timeCount: "18 mins",
   },
 ];
+
+export const deliveryCardImages = [
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+  {
+    srNo: 1,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/1/37251/7c93837d0b00d056ab23c02a2ee0ff24_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Punjab Grill",
+    rating: "3.9",
+    categories: "North Indian, Mughlai, Biryani...",
+    price: "500",
+  },
+  {
+    srNo: 2,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/7/19357907/cd0114dce2e5100a7b7fd15afcdc74c1_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Hungry Buddha",
+    rating: "4.0",
+    categories: "Asian, Chinese, Thai...",
+    price: "350",
+  },
+  {
+    srNo: 3,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/1/19322501/ae3eb23767be0dad45761be2293cfeb6_o2_featured_v2.jpg?output-format=webp",
+    restaurantName: "Sadak Tandoori Chaap",
+    rating: "4.2",
+    categories: "North Indian, Rolls, Chinese...",
+    price: "350",
+  },
+  {
+    srNo: 4,
+    imgURL:
+      "https://b.zmtcdn.com/data/pictures/chains/9/37459/ddf949c0b62402d47cf68b8b45b61e8f_o2_featured_v2.jpg",
+    restaurantName: "Status Veg Restaurant",
+    rating: "4.1",
+    categories: "South Indian, Street Food, Shakes...",
+    price: "200",
+  },
+];

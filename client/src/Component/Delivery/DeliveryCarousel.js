@@ -44,7 +44,7 @@ const DeliveryCarousel = () => {
           <h3>Top Brands for You</h3>
         </div>
         <div>
-          <div className=" w-full flex items-center justify-between mt-4 mb-32 gap-5 overflow-auto">
+          <div className=" w-full flex items-center justify-between m-4 gap-5 overflow-x-auto">
             {brandImageList.map((property) => (
               <DeliveryBrandName
                 imgUrl={property.imgUrl}

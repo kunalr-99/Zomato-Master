@@ -30,7 +30,7 @@ const TabSm = () => {
 
   return (
     <>
-      <div className="lg:hidden p-2 z-10 flex items-center justify-around w-full fixed bottom-0 text-md text-gray-500 border-t border-gray-200">
+      <div className="lg:hidden bg-white p-2 z-20 flex items-center justify-around w-full fixed bottom-0 text-md text-gray-500 border-t border-gray-200">
         {allTypes.map((items) => (
           <Link to={`/${items.id}`}>
             <div
